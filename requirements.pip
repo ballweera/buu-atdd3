@@ -1,0 +1,7 @@
+decorator==4.0.9
+docutils==0.12
+requests==2.9.1
+robotframework==3.0
+robotframework-requests==0.4.5
+robotframework-selenium2library==1.7.4
+selenium==2.52.0
